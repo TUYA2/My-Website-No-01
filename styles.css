@@ -138,11 +138,14 @@ span{
 .input{
     text-align: center;
     align-content: center;
-    padding:80px 100px 100px 20px ;
+    padding:200px 100px 100px 20px ;
     background-image:url("Rectangle\ 9.png");
     margin: 150px 230px 0px 230px;
     background-repeat:no-repeat;
     background-size:cover ;
+    height:400px ;
+    width: 2400px;
+    border-radius: 5px;
 }
 .foot{
     color: white;
@@ -176,7 +179,7 @@ span{
     
     font-size:x-large;
     background-color:rgb(224, 84, 130);
-    padding: 30px 45px 30px 45px;
+    padding: 20px 45px 20px 45px;
     border-radius:12px ;
     margin-top: 10px;
     margin-right: 280px;
@@ -201,5 +204,16 @@ span{
     height: 50px;
     width: 700px;
     margin-top:30px ;
-    font-size: xx-larger;
+    font-size:25px;
+}
+.type{
+    height: 80px;
+    width: 700px;
+    font-size: 20px;
+    border-radius:10px ;
+}
+/* .display{ */
+    display: flex;
+    padding: 0px 700px 0px 800px;
+    align-items: center;
 }
