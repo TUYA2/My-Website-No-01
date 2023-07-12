@@ -1,0 +1,205 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.Header{
+    display: flex;
+    align-items:center;
+    padding:50px 200px 0px 300px;
+    background-color: rgb(239, 216, 229);
+    margin: 0px 300px 0px 300px;
+    justify-content: space-around;
+    
+    
+    
+}
+.button{
+    color: white;
+    
+    font-size:x-large;
+    background-color:rgb(224, 84, 130);
+    padding: 30px 40px 30px 70px;
+    border-radius:12px ;
+    margin-top: 10px;
+    margin-right:550px ;
+    
+    
+}
+.paragraph{
+    color:grey;
+    font-size: larger;
+    
+}
+.head{
+    font-size: 80px;
+    font-weight:bolder;
+
+}
+.head-title{
+    text-align: center;
+    background-color: white;
+    
+    
+}
+.title{
+    font-weight: bolder;
+    font-size:50px ;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 650px 0px 650px;
+    
+    
+    
+    
+    
+    }
+    #pink{
+        /* border: 2px solid red; */
+        background-color: rgb(239, 216, 229);
+        border-radius:300px 300px 0px 0px ;
+        padding: 50px  50px 50px 50px;
+        margin-right: 10px;
+
+
+
+
+    }
+    #mixed{
+        /* border: 2px solid red; */
+        background-color: rgb(203, 221, 236);
+        border-radius:300px 300px 0px 0px ;
+       padding: 50px  20px 30px 20px;
+       margin-right: 10px;
+
+
+    }
+    #yellow{
+        /* border: 2px solid red; */
+        margin-right: 10px;
+        border-radius:300px 300px 0px 0px; 
+        padding:  50px  50px 50px 50px;
+        background-color:rgb(222, 235, 199)
+
+
+    }
+.heading{
+    padding:100px ;
+    
+}
+.picture{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 820px 0px 820px;
+
+}
+li{
+    list-style: none;
+    
+}
+a{
+    color: black;
+    font-size: larger;
+    
+}
+.main{
+    display: flex;
+    align-items: center;
+margin: 100px 200px 100px 200px;
+    justify-content: space-around;
+    background-color: rgb(239, 216, 229);
+    padding: 150px 400px 150px 400px;
+}
+span{
+    color:  rgb(224, 84, 130);
+}
+.text{
+    text-align: center;
+}
+.box{
+    color: white;
+    /* border: 2px solid red; */
+    
+    font-size:x-large;
+    background-color:rgb(224, 84, 130);
+    padding: 30px 45px 30px 45px;
+    border-radius:12px ;
+    margin-top: 10px;
+    margin-right: 280px;
+    margin-left: 280px;
+    
+}
+.instagram{
+    text-align:center;
+    background-color: white;
+}
+.input{
+    text-align: center;
+    align-content: center;
+    padding:80px 100px 100px 20px ;
+    background-image:url("Rectangle\ 9.png");
+    margin: 150px 230px 0px 230px;
+    background-repeat:no-repeat;
+    background-size:cover ;
+}
+.foot{
+    color: white;
+    
+}
+.footer{
+    background-color: black;
+    padding: 100px 550px 100px 550px;
+    text-align: center;
+    margin-top: 150px;
+}
+.shop{
+    color: white;
+}
+.Subscribe{
+    color: white;
+    border: 2px solid red;
+    
+    font-size: large;
+    background-color:rgb(224, 84, 130);
+    padding: 20px 30px 20px 30px;
+    border-radius:12px ;
+    margin-top: 10px;
+    margin-right:  1050px;
+    margin-left: 1050px;
+
+}
+.submit{
+    color: white;
+    /* border: 2px solid red; */
+    
+    font-size:x-large;
+    background-color:rgb(224, 84, 130);
+    padding: 30px 45px 30px 45px;
+    border-radius:12px ;
+    margin-top: 10px;
+    margin-right: 280px;
+    margin-left: 280px;
+}
+#placeholder{
+    height: 70px;
+    width: 700px;
+
+    border-radius:10px ;
+}
+.form{
+    display: block;
+    color: blue;
+    background-color: rgb(239, 216, 229);
+    border:2px solid grey ;
+    margin:150px 220px 50px 220px ;
+    padding:50px 200px 50px 600px ;
+}
+.fill-form{
+    color: crimson;
+    height: 50px;
+    width: 700px;
+    margin-top:30px ;
+    font-size: xx-larger;
+}
